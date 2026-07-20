@@ -216,94 +216,84 @@ Portfolio:  dharshan-paramasivan.github.io/portfolio
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 IoT Soil & Crop Recommendation System
+### 🔐 Vulnerability Assessment & Penetration Testing on API
 
-An IoT-based system that analyzes **soil chemical composition** and recommends optimal crops using sensor data and predictive logic.
+A security-testing project performing **VAPT on REST APIs** to uncover and document vulnerabilities before attackers can exploit them.
+
+**Tech Used**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-00ff41?style=flat-square&logo=hackaday&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN/Vulnerability-Assessment-and-Penetration-Testing-on-API)
+
+</td>
+<td width="50%" valign="top">
+
+### 👶 Baby Monitoring System
+
+An **IoT-driven monitoring system** that tracks vitals/environment in real time to help caregivers keep infants safe.
 
 **Tech Used**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN)
-[![Demo](https://img.shields.io/badge/Demo-00c853?style=flat-square&logo=vercel)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 Grievances Connect
-
-A platform enabling users to **raise, track, and resolve grievances** efficiently with a clean full-stack architecture.
-
-**Tech Used**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN)
-[![Demo](https://img.shields.io/badge/Demo-00c853?style=flat-square&logo=vercel)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN/Baby-Monitoring-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Coffee Story
+### ☕ The Coffee Story
 
-A visually engaging web application built to showcase a **coffee brand experience** with clean UI and smooth interactions.
+A **review website built with Django**, showcasing clean full-stack architecture for a coffee brand experience.
+
+**Tech Used**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN/THE-COFFEE-STORY)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Appointment Management System
+
+A web application to **schedule, manage, and track appointments** with a clean, structured booking flow.
 
 **Tech Used**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN)
-[![Demo](https://img.shields.io/badge/Demo-00c853?style=flat-square&logo=vercel)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Selenium Automation Framework
-
-A robust **automation testing framework** built using Selenium and Cucumber for BDD-style test execution.
-
-**Tech Used**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN)
-[![Demo](https://img.shields.io/badge/Demo-00c853?style=flat-square&logo=vercel)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN/Appoinment-Management-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Power BI Dashboard
+### 🎯 Smart Allocation Engine — PM Internship Scheme
 
-An interactive **business intelligence dashboard** transforming raw data into actionable visual insights.
+An intelligent **allocation engine** designed to match candidates to internships under the PM Internship Scheme.
 
 **Tech Used**
-![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN)
-[![Demo](https://img.shields.io/badge/Demo-00c853?style=flat-square&logo=vercel)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN/Smart-Allocation-Engine-for-PM-Internship-Scheme-1)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 API Security Testing (VAPT)
+### 💡 Code For Life
 
-Vulnerability Assessment and Penetration Testing on REST APIs to identify and report security flaws.
+A completed challenge project demonstrating **problem-solving and coding fundamentals** end to end.
 
 **Tech Used**
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-00ff41?style=flat-square&logo=hackaday&logoColor=black)
+![Code](https://img.shields.io/badge/-Problem_Solving-8a2be2?style=flat-square&logo=codeforces&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN)
-[![Demo](https://img.shields.io/badge/Demo-00c853?style=flat-square&logo=vercel)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/DHARSHAN-PARAMASIVAN/Code-For-Life)
 
 </td>
 </tr>
@@ -325,6 +315,10 @@ My **flagship project** — a fully responsive, animated developer portfolio sho
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub>📌 Cards above reflect repositories currently visible on your GitHub profile. Projects like <b>IoT Soil & Crop Recommendation</b>, <b>Grievances Connect</b>, <b>Selenium Automation Framework</b>, and <b>Power BI Dashboard</b> weren't found as public repos — push them (or make them public) and I'll wire in real links for those too.</sub>
+</div>
 
 <br/>
 
