@@ -49,6 +49,19 @@ I build full-stack products, verify them with automation, and harden the APIs th
 - API VAPT · Burp · OWASP ZAP
 - Automating messy pipelines
 
+**Live pulse**
+<!--LIVE:PULSE:START-->
+```bash
+$ uptime --profile
+user:           DHARSHAN-PARAMASIVAN
+public_repos:   14
+followers:      1
+following:      0
+last_sync:      2026-08-08 12:37 UTC
+status:         ONLINE | auto-synced by GitHub Actions
+```
+<!--LIVE:PULSE:END-->
+
 **Quick links**
 - [Signal Sheet Portfolio](https://dharshan-paramasivan.github.io/portfolio/)
 - [Download Resume PDF](https://dharshan-paramasivan.github.io/portfolio/Dharshan-Resume.pdf)
@@ -258,6 +271,40 @@ Django review site + entertainment discovery UI.
 </table>
 
 > Interactive case studies + terminal shell + dual-theme hacker UI on the live site: **[Signal Sheet](https://dharshan-paramasivan.github.io/portfolio/)**
+
+## `> watch --live-repos`
+
+Auto-refreshed every 12 hours from GitHub Actions.
+
+<!--LIVE:REPOS:START-->
+| Repo | Latest signal | Lang | Stars |
+| --- | --- | --- | ---: |
+| [Grievances-Connect](https://github.com/DHARSHAN-PARAMASIVAN/Grievances-Connect) | No description yet. | `JavaScript` | 0 |
+| [Grievances_Portal_Mine](https://github.com/DHARSHAN-PARAMASIVAN/Grievances_Portal_Mine) | No description yet. | `JavaScript` | 0 |
+| [Study-Sync](https://github.com/DHARSHAN-PARAMASIVAN/Study-Sync) | No description yet. | `TypeScript` | 0 |
+| [CineHub](https://github.com/DHARSHAN-PARAMASIVAN/CineHub) | No description yet. | `CSS` | 0 |
+| [Skill-Sync-AI](https://github.com/DHARSHAN-PARAMASIVAN/Skill-Sync-AI) | No description yet. | `Python` | 0 |
+| [Smart-Allocation-Engine-for-PM-Internship-Scheme-1](https://github.com/DHARSHAN-PARAMASIVAN/Smart-Allocation-Engine-for-PM-Internship-Scheme-1) | No description yet. | `—` | 0 |
+| [Appoinment-Management-System](https://github.com/DHARSHAN-PARAMASIVAN/Appoinment-Management-System) | No description yet. | `HTML` | 0 |
+| [Code-For-Life](https://github.com/DHARSHAN-PARAMASIVAN/Code-For-Life) | I have Completed the Code For Life Task: | `—` | 0 |
+<!--LIVE:REPOS:END-->
+
+## `> ./snake --contrib`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN/output/github-snake-light.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+![Snake workflow](https://img.shields.io/github/actions/workflow/status/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN/snake.yml?label=snake%20automation&style=for-the-badge&labelColor=0d1117)
+![Sync workflow](https://img.shields.io/github/actions/workflow/status/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN/sync-readme.yml?label=readme%20sync&style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ## `> history --experience`
 
