@@ -53,10 +53,38 @@ def repo_row(repo: dict) -> str:
     desc = (repo.get("description") or "No description yet.").strip()
     if len(desc) > 90:
         desc = desc[:87] + "..."
-    lang = repo.get("language") or "—"
+    lang = repo.get("language") or "-"
     stars = repo.get("stargazers_count", 0)
     url = repo["html_url"]
     return f"| [{name}]({url}) | {desc} | `{lang}` | {stars} |"
+
+
+def format_event(ev: dict) -> str | None:
+    etype = ev.get("type")
+    repo = (ev.get("repo") or {}).get("name", "")
+    short = repo.split("/")[-1] if repo else "repo"
+    created = (ev.get("created_at") or "")[:10]
+    payload = ev.get("payload") or {}
+
+    if etype == "PushEvent":
+        commits = payload.get("size") or len(payload.get("commits") or [])
+        return f"- `{created}` pushed **{commits}** commit(s) -> [{short}](https://github.com/{repo})"
+    if etype == "CreateEvent":
+        ref_type = payload.get("ref_type", "ref")
+        return f"- `{created}` created {ref_type} -> [{short}](https://github.com/{repo})"
+    if etype == "WatchEvent":
+        return f"- `{created}` starred [{short}](https://github.com/{repo})"
+    if etype == "ForkEvent":
+        return f"- `{created}` forked [{short}](https://github.com/{repo})"
+    if etype == "IssuesEvent":
+        action = payload.get("action", "updated")
+        return f"- `{created}` issue {action} -> [{short}](https://github.com/{repo})"
+    if etype == "PullRequestEvent":
+        action = payload.get("action", "updated")
+        return f"- `{created}` PR {action} -> [{short}](https://github.com/{repo})"
+    if etype == "PublicEvent":
+        return f"- `{created}` made public -> [{short}](https://github.com/{repo})"
+    return None
 
 
 def main() -> None:
@@ -64,6 +92,7 @@ def main() -> None:
     repos = api_get(
         f"https://api.github.com/users/{USER}/repos?per_page=100&sort=updated&type=owner"
     )
+    events = api_get(f"https://api.github.com/users/{USER}/events/public?per_page=30")
 
     public = [
         r
@@ -90,14 +119,26 @@ status:         ONLINE | auto-synced by GitHub Actions
     ]
     table_lines.extend(repo_row(r) for r in public)
     if len(public) == 0:
-        table_lines.append("| — | No public repos yet | — | 0 |")
+        table_lines.append("| - | No public repos yet | - | 0 |")
     live_repos = "\n".join(table_lines)
+
+    activity_lines = []
+    for ev in events:
+        line = format_event(ev)
+        if line and line not in activity_lines:
+            activity_lines.append(line)
+        if len(activity_lines) >= 8:
+            break
+    if not activity_lines:
+        activity_lines = ["- No recent public events yet."]
+    live_activity = "\n".join(activity_lines)
 
     text = README.read_text(encoding="utf-8")
     text = replace_block(text, "PULSE", pulse)
     text = replace_block(text, "REPOS", live_repos)
+    text = replace_block(text, "ACTIVITY", live_activity)
     README.write_text(text, encoding="utf-8")
-    print(f"Synced {len(public)} repos at {now}")
+    print(f"Synced {len(public)} repos + {len(activity_lines)} events at {now}")
 
 
 if __name__ == "__main__":
