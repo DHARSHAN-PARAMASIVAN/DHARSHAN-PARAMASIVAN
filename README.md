@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Dual-theme animated banners -->
-<img src="assets/banner-dark.svg#gh-dark-mode-only" alt="Dharshan Paramasivan — Signal Sheet" width="100%" />
-<img src="assets/banner-light.svg#gh-light-mode-only" alt="Dharshan Paramasivan — Signal Sheet" width="100%" />
+<!-- Dual-theme hero banners (PNG — reliable on GitHub) -->
+<img src="assets/banner-dark.png#gh-dark-mode-only" alt="Dharshan Paramasivan — Signal Sheet" width="100%" />
+<img src="assets/banner-light.png#gh-light-mode-only" alt="Dharshan Paramasivan — Signal Sheet" width="100%" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-22c55e?style=for-the-badge&labelColor=0d1117)](https://dharshan-paramasivan.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Download_CV-22d3ee?style=for-the-badge&labelColor=0d1117)](https://dharshan-paramasivan.github.io/portfolio/Dharshan-Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshan-paramasivan/)
-[![Email](https://img.shields.io/badge/Email-dharshanparamasivan%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshanparamasivan@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshanparamasivan@gmail.com)
 
 <img src="assets/divider-dark.svg#gh-dark-mode-only" width="100%" alt="" />
 <img src="assets/divider-light.svg#gh-light-mode-only" width="100%" alt="" />
@@ -58,8 +58,12 @@ I build full-stack products, verify them with automation, and harden the APIs th
 </table>
 
 <div align="center">
-<img src="assets/typing-dark.svg#gh-dark-mode-only" width="100%" alt="skills typing" />
-<img src="assets/typing-light.svg#gh-light-mode-only" width="100%" alt="skills typing" />
+
+```bash
+$ cat ./skills.txt
+> Java | Python | JS | React | Next.js | Django | FastAPI | AWS | Docker | Selenium | Burp
+```
+
 </div>
 
 ## `> cat /skills/*`
