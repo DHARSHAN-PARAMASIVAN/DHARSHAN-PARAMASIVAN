@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <rect width="900" height="70" fill="transparent"/>
+  <text x="20" y="44" font-family="ui-monospace, Consolas, monospace" font-size="22" fill="#22c55e">
+    <tspan>$ </tspan>
+    <tspan>
+      cat ./skills.txt
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.2s" begin="0s" fill="freeze"/>
+    </tspan>
+    <tspan opacity="0">
+      Java | Python | JS | React | Next.js | Django | FastAPI | AWS | Docker | Selenium | Burp
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.2s" fill="freeze"/>
+    </tspan>
+  </text>
+  <rect x="20" y="52" width="860" height="2" fill="#22c55e" opacity="0.35">
+    <animate attributeName="width" values="0;860" dur="2.2s" begin="1.2s" fill="freeze"/>
+  </rect>
+</svg>

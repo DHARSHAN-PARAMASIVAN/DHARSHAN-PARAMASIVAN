@@ -1,14 +1,15 @@
 <div align="center">
 
-```bash
-root@github:~$ whoami
-> DHARSHAN PARAMASIVAN
-> Full-Stack Engineer | QA Automation | API Security
-> Coimbatore, Tamil Nadu | Open to Software Engineer roles
-```
+<!-- Dual-theme animated banners -->
+<img src="assets/banner-dark.svg#gh-dark-mode-only" alt="Dharshan Paramasivan — Signal Sheet" width="100%" />
+<img src="assets/banner-light.svg#gh-light-mode-only" alt="Dharshan Paramasivan — Signal Sheet" width="100%" />
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DHARSHAN-PARAMASIVAN&label=Profile%20Views&color=22c55e&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/DHARSHAN-PARAMASIVAN?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/DHARSHAN-PARAMASIVAN?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Repos-14+-22c55e?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open_to_Roles-22d3ee?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
@@ -17,125 +18,302 @@ root@github:~$ whoami
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshan-paramasivan/)
 [![Email](https://img.shields.io/badge/Email-dharshanparamasivan%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshanparamasivan@gmail.com)
 
+<img src="assets/divider-dark.svg#gh-dark-mode-only" width="100%" alt="" />
+<img src="assets/divider-light.svg#gh-light-mode-only" width="100%" alt="" />
+
 </div>
 
----
+## `> about.exe`
 
-## About
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```yaml
 Name:       Dharshan Paramasivan
-Role:       Full-Stack Engineer | QA Automation | API Security
-Education:  M.Sc. Software Systems | PSG College of Arts & Science (82%)
+Role:       Full-Stack · QA Automation · API Security
+Education:  M.Sc. Software Systems @ PSG (82%)
 Location:   Coimbatore, Tamil Nadu, India
-Status:     Open to Software Engineer opportunities
+Status:     Open to Software Engineer roles
 Mantra:     BUILD -> VERIFY -> SECURE -> SHIP
-Portfolio:  https://dharshan-paramasivan.github.io/portfolio/
 ```
 
 I build full-stack products, verify them with automation, and harden the APIs that carry them -- then ship evidence, not screenshots alone.
 
-- Building **VortexIoT** -- industrial machinery health monitoring (Next.js / FastAPI / Kafka / AWS)
-- Deepening **DevOps, system design, and API security**
-- Open to collaborate on **full-stack, automation, and open source**
-- Fun fact: I enjoy turning messy problems into clean, automated pipelines
+</td>
+<td width="42%" valign="top">
 
----
+**Current ops**
+- **VortexIoT** -- live IoT monitoring
+- Deepening DevOps + system design
+- API VAPT · Burp · OWASP ZAP
+- Automating messy pipelines
 
-## Tech Stack
+**Quick links**
+- [Signal Sheet Portfolio](https://dharshan-paramasivan.github.io/portfolio/)
+- [Download Resume PDF](https://dharshan-paramasivan.github.io/portfolio/Dharshan-Resume.pdf)
 
-**Languages**
+</td>
+</tr>
+</table>
 
-![Skills](https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark)
+<div align="center">
+<img src="assets/typing-dark.svg#gh-dark-mode-only" width="100%" alt="skills typing" />
+<img src="assets/typing-light.svg#gh-light-mode-only" width="100%" alt="skills typing" />
+</div>
 
-**Frontend & Backend**
+## `> cat /skills/*`
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi&theme=dark)
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<div align="center">
 
-**Data & Cloud**
+![Skills](https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark#gh-dark-mode-only)
+![Skills](https://skillicons.dev/icons?i=java,py,js,html,css&theme=light#gh-light-mode-only)
 
-![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,nginx,git,githubactions&theme=dark)
+`Java` · `Python` · `JavaScript` · `SQL`
+</div>
+</details>
 
-**QA & Security**
+<details open>
+<summary><b>Frontend & Backend</b></summary>
+<br/>
+<div align="center">
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=kalilinux&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi&theme=dark#gh-dark-mode-only)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi&theme=light#gh-light-mode-only)
 
----
+`React` · `Next.js` · `Node.js` · `Express` · `Django` · `FastAPI` · `REST APIs` · `MERN`
+</div>
+</details>
 
-## Featured Projects
+<details open>
+<summary><b>Data · Cloud · DevOps</b></summary>
+<br/>
+<div align="center">
 
-| Project | Stack | Links |
-| --- | --- | --- |
-| **VortexIoT** -- Machinery health monitoring with telemetry, ML anomaly detection and cloud deploy | Next.js, FastAPI, Kafka, InfluxDB, AWS, Docker | [Live](https://machinary-one.vercel.app/) |
-| **API Security Lab** -- VAPT on REST APIs (discover, validate, harden) | Burp Suite, OWASP ZAP, Postman | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Vulnerability-Assessment-and-Penetration-Testing-on-API) |
-| **Appointment Management** -- Role-based booking and scheduling | Django, Python, PostgreSQL | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Appoinment-Management-System) |
-| **Smart Allocation Engine** -- PM Internship Scheme matcher | TypeScript, Algorithms | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Smart-Allocation-Engine-for-PM-Internship-Scheme-1) |
-| **Skill Sync AI** -- AI-assisted skill matching | Python, AI | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Skill-Sync-AI) |
-| **Study Sync** -- Collaboration / learning workflows | TypeScript | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Study-Sync) |
-| **Grievances Connect** -- Citizen complaint portal | JavaScript, Full-stack | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Grievances-Connect) |
-| **Baby Monitoring System** -- IoT care alerts | Python, IoT | [Code](https://github.com/DHARSHAN-PARAMASIVAN/Baby-Monitoring-System) |
-| **The Coffee Story** -- Django review site | Django, Python | [Code](https://github.com/DHARSHAN-PARAMASIVAN/THE-COFFEE-STORY) |
-| **CineHub** -- Entertainment discovery UI | CSS, Web | [Code](https://github.com/DHARSHAN-PARAMASIVAN/CineHub) |
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,nginx,git,githubactions&theme=dark#gh-dark-mode-only)
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,nginx,git,githubactions&theme=light#gh-light-mode-only)
 
-> Full interactive case studies, terminal shell, and dual-theme hacker UI: **[Signal Sheet Portfolio](https://dharshan-paramasivan.github.io/portfolio/)**
+`PostgreSQL` · `MongoDB` · `MySQL` · `Kafka` · `AWS` · `Docker` · `NGINX` · `Supabase`
+</div>
+</details>
 
----
+<details open>
+<summary><b>QA · Security · Tools</b></summary>
+<br/>
+<div align="center">
 
-## Experience
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=kalilinux&logoColor=white)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-```text
-2025 -- Fulcrum Technologies -- Tester Intern
-        Selenium / Cucumber / BDD -> 40% testing-time cut
+</div>
+</details>
 
-2025 -- Pinsphere Solutions -- Full-Stack Intern
-        Django / PostgreSQL / REST -> 25% backend performance
+<div align="center">
+<img src="assets/divider-dark.svg#gh-dark-mode-only" width="100%" alt="" />
+<img src="assets/divider-light.svg#gh-light-mode-only" width="100%" alt="" />
+</div>
 
-2026 -- VortexIoT -- Industrial IoT platform
-        Next.js / FastAPI / Kafka / AWS -> live production
+## `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · VortexIoT
+**Industrial IoT · 2026**
+
+Machinery health monitoring with real-time telemetry, ML anomaly detection, and cloud deploy.
+
+`Next.js` `FastAPI` `Kafka` `InfluxDB` `AWS` `Docker`
+
+[Live Demo](https://machinary-one.vercel.app/) · Impact: **live production**
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · API Security Lab
+**VAPT · 2024**
+
+Endpoint discovery, auth testing, and hardening recommendations for REST APIs.
+
+`Burp Suite` `OWASP ZAP` `Postman`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Vulnerability-Assessment-and-Penetration-Testing-on-API)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Appointment System
+**Django · 2025**
+
+Role-based booking with secure access control and optimized scheduling.
+
+`Django` `Python` `PostgreSQL`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Appoinment-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · QA Automation Framework
+**Selenium · Cucumber · 2025**
+
+End-to-end BDD automation for critical web workflows -- login, data entry, regression.
+
+`Selenium` `Cucumber` `Java` · Impact: **30-40% test time cut**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 · Smart Allocation Engine
+**PM Internship Scheme · 2025**
+
+Intelligent allocation matching candidates to internship roles.
+
+`TypeScript` `Algorithms`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Smart-Allocation-Engine-for-PM-Internship-Scheme-1)
+
+</td>
+<td width="50%" valign="top">
+
+### 06 · Skill Sync AI
+**AI · Skills · 2025**
+
+AI-assisted skill matching and development workflows.
+
+`Python` `AI`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Skill-Sync-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 07 · Study Sync
+**Learning platform · 2025**
+
+Study collaboration and learning workflow platform.
+
+`TypeScript`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Study-Sync)
+
+</td>
+<td width="50%" valign="top">
+
+### 08 · Grievances Connect
+**Full-stack portal · 2025**
+
+Citizen grievance portal for submit / track / resolve.
+
+`JavaScript` `Full-stack`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Grievances-Connect)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 09 · Baby Monitoring
+**IoT · 2024**
+
+Real-time IoT alerts for caregiver workflows.
+
+`Python` `IoT`
+
+[Code](https://github.com/DHARSHAN-PARAMASIVAN/Baby-Monitoring-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 10 · The Coffee Story + CineHub
+**Django / UI · 2024-25**
+
+Django review site + entertainment discovery UI.
+
+[Coffee Story](https://github.com/DHARSHAN-PARAMASIVAN/THE-COFFEE-STORY) · [CineHub](https://github.com/DHARSHAN-PARAMASIVAN/CineHub)
+
+</td>
+</tr>
+</table>
+
+> Interactive case studies + terminal shell + dual-theme hacker UI on the live site: **[Signal Sheet](https://dharshan-paramasivan.github.io/portfolio/)**
+
+## `> history --experience`
+
+```bash
+┌──────────┬────────────────────────┬──────────────────────────────────────────────┐
+│  2025    │ Fulcrum Technologies   │ Tester Intern · Selenium/Cucumber            │
+│          │                        │ → 40% testing-time reduction                 │
+├──────────┼────────────────────────┼──────────────────────────────────────────────┤
+│  2025    │ Pinsphere Solutions    │ Full-Stack Intern · Django/PostgreSQL/REST   │
+│          │                        │ → 25% backend performance gain               │
+├──────────┼────────────────────────┼──────────────────────────────────────────────┤
+│  2026    │ VortexIoT              │ Industrial IoT · Next.js/FastAPI/Kafka/AWS   │
+│          │                        │ → live production deployment                 │
+└──────────┴────────────────────────┴──────────────────────────────────────────────┘
 ```
 
----
-
-## Certifications
-
-![APISec](https://img.shields.io/badge/API_Penetration_Testing-APIsec-22c55e?style=for-the-badge&labelColor=0d1117)
-![Android](https://img.shields.io/badge/Java_for_Android-Coursera-22d3ee?style=for-the-badge&labelColor=0d1117)
-![IBM](https://img.shields.io/badge/Python_Data_Science_AI-IBM-22c55e?style=for-the-badge&labelColor=0d1117)
-![IoT](https://img.shields.io/badge/IoT-IIT_Bombay-22d3ee?style=for-the-badge&labelColor=0d1117)
-![DBMS](https://img.shields.io/badge/DBMS-NPTEL-22c55e?style=for-the-badge&labelColor=0d1117)
-
----
-
-## GitHub Stats
+## `> certs --list`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DHARSHAN-PARAMASIVAN&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22d3ee&text_color=c9d1d9&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARSHAN-PARAMASIVAN&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHARSHAN-PARAMASIVAN&theme=dark&hide_border=true&ring=22c55e&fire=22d3ee&currStreakLabel=22c55e" alt="GitHub streak" />
+![APISec](https://img.shields.io/badge/API_Penetration_Testing-APIsec_University_2023-22c55e?style=for-the-badge&labelColor=0d1117)
+![Android](https://img.shields.io/badge/Java_for_Android-Vanderbilt_Coursera_2024-22d3ee?style=for-the-badge&labelColor=0d1117)
+![IBM](https://img.shields.io/badge/Python_Data_Science_AI-IBM_Coursera_2025-22c55e?style=for-the-badge&labelColor=0d1117)
+![IoT](https://img.shields.io/badge/Introduction_to_IoT-IIT_Bombay_2025-22d3ee?style=for-the-badge&labelColor=0d1117)
+![DBMS](https://img.shields.io/badge/Database_Management_System-NPTEL_2025-22c55e?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
+## `> stats`
 
-## Contact
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DHARSHAN-PARAMASIVAN&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22d3ee&text_color=c9d1d9&bg_color=00000000#gh-dark-mode-only" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARSHAN-PARAMASIVAN&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=00000000#gh-dark-mode-only" alt="Top languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DHARSHAN-PARAMASIVAN&show_icons=true&theme=transparent&hide_border=true&title_color=047857&icon_color=0e7490&text_color=24292f&bg_color=00000000#gh-light-mode-only" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARSHAN-PARAMASIVAN&layout=compact&theme=transparent&hide_border=true&title_color=047857&text_color=24292f&bg_color=00000000#gh-light-mode-only" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHARSHAN-PARAMASIVAN&theme=dark&hide_border=true&ring=22c55e&fire=22d3ee&currStreakLabel=22c55e#gh-dark-mode-only" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHARSHAN-PARAMASIVAN&theme=default&hide_border=true&ring=047857&fire=0e7490&currStreakLabel=047857#gh-light-mode-only" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHARSHAN-PARAMASIVAN&bg_color=00000000&color=22c55e&line=22d3ee&point=22c55e&area=true&hide_border=true#gh-dark-mode-only" alt="Activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHARSHAN-PARAMASIVAN&bg_color=00000000&color=047857&line=0e7490&point=047857&area=true&hide_border=true#gh-light-mode-only" alt="Activity graph" width="100%" />
+
+</div>
+
+## `> nmap contact`
 
 ```bash
-$ nmap contact
+$ nmap -sV dharshan.paramasivan
 PORT     STATE  SERVICE
-25/tcp   open   smtp     dharshanparamasivan@gmail.com
-443/tcp  open   https    linkedin.com/in/dharshan-paramasivan
-22/tcp   open   ssh      github.com/DHARSHAN-PARAMASIVAN
-443/tcp  open   https    dharshan-paramasivan.github.io/portfolio
+25/tcp   open   smtp      dharshanparamasivan@gmail.com
+443/tcp  open   https     linkedin.com/in/dharshan-paramasivan
+22/tcp   open   ssh       github.com/DHARSHAN-PARAMASIVAN
+443/tcp  open   https     dharshan-paramasivan.github.io/portfolio
+Nmap done: 1 host up -- access granted
 ```
 
 <div align="center">
@@ -143,5 +321,12 @@ PORT     STATE  SERVICE
 [![Follow](https://img.shields.io/badge/Follow-DHARSHAN--PARAMASIVAN-22c55e?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DHARSHAN-PARAMASIVAN)
 [![Portfolio](https://img.shields.io/badge/Open_Signal_Sheet-22d3ee?style=for-the-badge&labelColor=0d1117)](https://dharshan-paramasivan.github.io/portfolio/)
 [![CV](https://img.shields.io/badge/Download_Resume-ea4335?style=for-the-badge&labelColor=0d1117)](https://dharshan-paramasivan.github.io/portfolio/Dharshan-Resume.pdf)
+
+<br/><br/>
+
+<img src="assets/divider-dark.svg#gh-dark-mode-only" width="100%" alt="" />
+<img src="assets/divider-light.svg#gh-light-mode-only" width="100%" alt="" />
+
+`root@signal-sheet:~$ exit` · thanks for visiting
 
 </div>
