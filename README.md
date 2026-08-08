@@ -298,7 +298,6 @@ Live public activity stream (auto-synced).
 - `2026-08-08` pushed **0** commit(s) -> [portfolio](https://github.com/DHARSHAN-PARAMASIVAN/portfolio)
 - `2026-07-20` pushed **0** commit(s) -> [DHARSHAN-PARAMASIVAN](https://github.com/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN)
 - `2026-07-20` created branch -> [DHARSHAN-PARAMASIVAN](https://github.com/DHARSHAN-PARAMASIVAN/DHARSHAN-PARAMASIVAN)
-- `2026-07-16` pushed **0** commit(s) -> [Grievances-Connect](https://github.com/DHARSHAN-PARAMASIVAN/Grievances-Connect)
 <!--LIVE:ACTIVITY:END-->
 
 ## `> ./snake --contrib`
