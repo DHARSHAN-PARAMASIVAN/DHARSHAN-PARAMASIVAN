@@ -54,10 +54,10 @@ I build full-stack products, verify them with automation, and harden the APIs th
 ```bash
 $ uptime --profile
 user:           DHARSHAN-PARAMASIVAN
-public_repos:   15
+public_repos:   16
 followers:      1
 following:      0
-last_sync:      2026-11-26 06:14 UTC
+last_sync:      2026-11-26 20:45 UTC
 status:         ONLINE | auto-synced by GitHub Actions
 ```
 <!--LIVE:PULSE:END-->
@@ -279,6 +279,7 @@ Auto-refreshed every 12 hours from GitHub Actions.
 <!--LIVE:REPOS:START-->
 | Repo | Latest signal | Lang | Stars |
 | --- | --- | --- | ---: |
+| [Certificates](https://github.com/DHARSHAN-PARAMASIVAN/Certificates) | No description yet. | `-` | 0 |
 | [Grievances-Connect](https://github.com/DHARSHAN-PARAMASIVAN/Grievances-Connect) | No description yet. | `JavaScript` | 0 |
 | [Brite_Hackathon](https://github.com/DHARSHAN-PARAMASIVAN/Brite_Hackathon) | No description yet. | `Python` | 0 |
 | [Skill-Sync-AI](https://github.com/DHARSHAN-PARAMASIVAN/Skill-Sync-AI) | No description yet. | `TypeScript` | 0 |
@@ -286,7 +287,6 @@ Auto-refreshed every 12 hours from GitHub Actions.
 | [Grievances_Portal_Mine](https://github.com/DHARSHAN-PARAMASIVAN/Grievances_Portal_Mine) | No description yet. | `JavaScript` | 0 |
 | [Study-Sync](https://github.com/DHARSHAN-PARAMASIVAN/Study-Sync) | No description yet. | `TypeScript` | 0 |
 | [CineHub](https://github.com/DHARSHAN-PARAMASIVAN/CineHub) | No description yet. | `CSS` | 0 |
-| [Appoinment-Management-System](https://github.com/DHARSHAN-PARAMASIVAN/Appoinment-Management-System) | No description yet. | `HTML` | 0 |
 <!--LIVE:REPOS:END-->
 
 ## `> tail -f /var/log/activity`
